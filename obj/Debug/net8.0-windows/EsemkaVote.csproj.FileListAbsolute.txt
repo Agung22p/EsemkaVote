@@ -23,3 +23,4 @@ D:\c#_project\EsemkaVote\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Syste
 D:\c#_project\EsemkaVote\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 D:\c#_project\EsemkaVote\obj\Debug\net8.0-windows\EsemkaVote.csproj.AssemblyReference.cache
 D:\c#_project\EsemkaVote\obj\Debug\net8.0-windows\EsemkaVote.csproj.Up2Date
+D:\c#_project\EsemkaVote\obj\Debug\net8.0-windows\EsemkaVote.sourcelink.json

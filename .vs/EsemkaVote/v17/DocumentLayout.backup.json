@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\c#_project\\EsemkaVote\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|D:\\c#_project\\EsemkaVote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReportForm.cs",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\ReportForm.cs",
               "RelativeDocumentMoniker": "ReportForm.cs",
-              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs",
-              "RelativeToolTip": "ReportForm.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAkwIQAAAATAgAAAAAAAA==",
+              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs*",
+              "RelativeToolTip": "ReportForm.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv4gAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:54:53.343Z",
               "EditorCaption": ""
@@ -47,8 +47,8 @@
               "Title": "ReportForm.Designer.cs",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\ReportForm.Designer.cs",
               "RelativeDocumentMoniker": "ReportForm.Designer.cs",
-              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.Designer.cs",
-              "RelativeToolTip": "ReportForm.Designer.cs",
+              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.Designer.cs*",
+              "RelativeToolTip": "ReportForm.Designer.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:40:13.968Z",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -69,12 +69,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ReportForm.cs [Design]",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\ReportForm.cs",
               "RelativeDocumentMoniker": "ReportForm.cs",
-              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs [Design]",
-              "RelativeToolTip": "ReportForm.cs [Design]",
+              "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs [Design]*",
+              "RelativeToolTip": "ReportForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:23:41.823Z",
               "EditorCaption": " [Design]"
