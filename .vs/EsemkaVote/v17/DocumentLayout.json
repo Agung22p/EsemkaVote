@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\c#_project\\EsemkaVote\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|D:\\c#_project\\EsemkaVote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|D:\\c#_project\\EsemkaVote\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|d:\\c#_project\\esemkavote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC4FA61-EC97-432F-9700-CC2361758909}|EsemkaVote.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadData.cs",
+              "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\LoadData.cs",
+              "RelativeDocumentMoniker": "LoadData.cs",
+              "ToolTip": "D:\\c#_project\\EsemkaVote\\LoadData.cs",
+              "RelativeToolTip": "LoadData.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwJ4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:18:15.045Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,7 +53,7 @@
               "RelativeDocumentMoniker": "ReportForm.cs",
               "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs",
               "RelativeToolTip": "ReportForm.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAADwv4gAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:54:53.343Z",
               "EditorCaption": ""
@@ -49,14 +66,13 @@
               "RelativeDocumentMoniker": "ReportForm.Designer.cs",
               "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.Designer.cs",
               "RelativeToolTip": "ReportForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T02:40:13.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T02:40:13.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,20 +80,18 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T02:24:40.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T02:24:40.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReportForm.cs [Design]",
               "DocumentMoniker": "D:\\c#_project\\EsemkaVote\\ReportForm.cs",
               "RelativeDocumentMoniker": "ReportForm.cs",
               "ToolTip": "D:\\c#_project\\EsemkaVote\\ReportForm.cs [Design]",
               "RelativeToolTip": "ReportForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T02:23:41.823Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-04T02:23:41.823Z"
             }
           ]
         }
